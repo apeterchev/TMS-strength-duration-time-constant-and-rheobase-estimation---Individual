@@ -1,3 +1,5 @@
+# TMS-strength-duration-time-constant-and-rheobase-estimation---Individual
+
 FILE: estTimeConstant.m
 
 OBJECTIVE:
